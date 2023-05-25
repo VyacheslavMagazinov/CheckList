@@ -1,0 +1,17 @@
+D:\repomono\projects\CheckList\obj\Debug\CheckList.csprojResolveAssemblyReference.cache
+D:\repomono\projects\CheckList\obj\Debug\CheckList.MainForm.resources
+D:\repomono\projects\CheckList\obj\Debug\CheckList.csproj.GenerateResource.Cache
+D:\repomono\projects\CheckList\bin\Debug\CheckList.exe.config
+D:\repomono\projects\CheckList\bin\Debug\CheckList.exe
+D:\repomono\projects\CheckList\bin\Debug\CheckList.pdb
+D:\repomono\projects\CheckList\obj\Debug\CheckList.exe
+D:\repomono\projects\CheckList\obj\Debug\CheckList.pdb
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\bin\Debug\CheckList.exe.config
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\bin\Debug\CheckList.exe
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\bin\Debug\CheckList.pdb
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\obj\Debug\CheckList.csprojResolveAssemblyReference.cache
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\obj\Debug\CheckList.MainForm.resources
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\obj\Debug\CheckList.csproj.GenerateResource.Cache
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\obj\Debug\CheckList.exe
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\obj\Debug\CheckList.pdb
+C:\Users\vyacheslav.magazinov\Documents\SharpDevelop Projects\CheckList\bin\Debug\EPPlus.dll
